@@ -18,6 +18,8 @@ Transitioning from a background in technical management to IT, I am currently a 
 | **Automation / DevOps** | Ansible, Python, Bash, Docker |
 | **IT Management** | Jira Service Management (JSM), Agile Methodologies |
 
+### I use often
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -25,14 +27,11 @@ Transitioning from a background in technical management to IT, I am currently a 
 ### 🚀 Projects & Hands-on Labs
 * **[Network Security]**: Deployment of a secured Active Directory domain controller.
 * **[Automation]**: Python scripts and Ansible Playbooks for automated fleet management.
-* **[Infrastructure]**: Virtualization labs and containerized environments using Docker.
+* **[Infrastructure]**: In progress...
 
 ---
 
 ### 📫 Connect with me
 - **LinkedIn**: [Logan Quaghebeur](https://www.linkedin.com/in/logan-quaghebeur)
 - **Email**: logan.quaghebeur@gmail.com
-- **Resume**: [Link to your PDF resume]
 
----
-*“My goal: Ensuring high availability and data protection within critical infrastructures.”*
