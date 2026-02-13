@@ -25,9 +25,9 @@ Transitioning from a background in technical management to IT, I am currently a 
 ---
 
 ### 🚀 Projects & Hands-on Labs
-* **[Network Security]**: Deployment of a secured Active Directory domain controller.
-* **[Automation]**: Python scripts and Ansible Playbooks for automated fleet management.
-* **[Infrastructure]**: In progress...
+* **Network Security**: Deployment of a secured Active Directory domain controller.
+* **Automation**: Python scripts and Ansible Playbooks for automated fleet management.
+* **Infrastructure**: In progress...
 
 ---
 
